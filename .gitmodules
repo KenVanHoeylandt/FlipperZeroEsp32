@@ -1,0 +1,6 @@
+[submodule "components/mlib/git"]
+	path = components/mlib/git
+	url = https://github.com/P-p-H-d/mlib.git
+[submodule "components/heatshrink/git"]
+	path = components/heatshrink/git
+	url = https://github.com/flipperdevices/heatshrink.git

@@ -1,0 +1,23 @@
+idf_component_register(
+    SRC_DIRS "services/cli"
+        "services/desktop"
+        "services/desktop/animations"
+        "services/desktop/animations/views"
+        "services/desktop/helpers"
+        "services/desktop/scenes"
+        "services/desktop/views"
+        "services/dialogs"
+        "services/dolphin"
+        "services/dolphin/helpers"
+        "services/gui"
+        "services/gui/modules"
+        "services/gui/modules/widget_elements"
+        "services/input"
+        "services/loader"
+        "services/locale"
+        "services/notification"
+        "services/storage"
+        "services/storage/storages"
+    INCLUDE_DIRS "." "services"
+    REQUIRES assets furi u8g2 u8g2-esp32-hal FreeRTOS-glue toolbox flipper_format flipper_application
+)
