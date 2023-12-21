@@ -12,6 +12,8 @@ This project is created from code at:
 
 - Install esp-idf 5.1 from https://docs.espressif.com/projects/esp-idf/en/v5.1.2/esp32/get-started/index.html
 - Ensure you clone the repository with submodules: `git clone --recurse-submodules`
+- Run `idf.py build` for building
+- Run `idf.py flash monitor` to build, flash and then monitor
 - There are tons of `// TODO esp` in the code. Look out for those when debugging issues.
 
 ## Hardware 
