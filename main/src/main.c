@@ -1,8 +1,6 @@
-#include <nvs_flash.h>
 #include <esp_log.h>
 
 #include "sdkconfig.h"
-#include "fs_init.h"
 
 #include <furi_hal.h>
 #include <desktop/desktop.h>
