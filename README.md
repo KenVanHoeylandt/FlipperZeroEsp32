@@ -1,6 +1,6 @@
 # Flipper Zero for ESP32
 
-**WARNING: THIS IS A WIP! NOT A FINISHED PROJECT!**
+**IMPORTANT: This project is continued at https://github.com/ByteWelder/Tactility**
 
 This project is created from code at:
 - [Flipper Zero Firmware](https://github.com/flipperdevices/flipperzero-firmware/)
